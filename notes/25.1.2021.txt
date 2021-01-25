@@ -1,0 +1,17 @@
+- free fit design, align by hand insufficient.
+- annodizing could cause it to be too large.
+- mechanism from a usual telescope.
+- should be able to remove telescope assembly entirely. 
+- current design uses thread which is ok, but tolerances are kind of big.
+
+- hexagonal facets on vaccum chamber 
+- attachment points to the rest of the chamber.
+- consider machining requirements.
+- intersection points of the ports.
+
+-material is not easily magnetised.
+-aluminum
+216 LNS steel - ESA 1.4404 - not magnetic
+-analytical solution is fine.
+
+1st - Feb - 12:30
